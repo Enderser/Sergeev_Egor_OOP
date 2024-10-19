@@ -1,0 +1,3 @@
+/home/ender/OOP/build-task0a-Desktop-Debug/CMakeFiles/task0a.dir
+/home/ender/OOP/build-task0a-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/ender/OOP/build-task0a-Desktop-Debug/CMakeFiles/rebuild_cache.dir
