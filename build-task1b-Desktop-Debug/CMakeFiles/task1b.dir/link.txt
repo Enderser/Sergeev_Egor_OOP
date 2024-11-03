@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/task1b.dir/main.cpp.o CMakeFiles/task1b.dir/circular_buffer.cpp.o -o task1b 

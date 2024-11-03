@@ -1,0 +1,5 @@
+if(EXISTS "/home/ender/OOP/task1b/build/CircularBuffer_test[1]_tests.cmake")
+  include("/home/ender/OOP/task1b/build/CircularBuffer_test[1]_tests.cmake")
+else()
+  add_test(CircularBuffer_test_NOT_BUILT CircularBuffer_test_NOT_BUILT)
+endif()

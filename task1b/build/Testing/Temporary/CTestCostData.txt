@@ -1,0 +1,12 @@
+CircularBufferTest.ConstructorWithCapacity 2 0.000874572
+CircularBufferTest.PushBack 2 0.00155699
+CircularBufferTest.PushBackOverwrite 2 0.00147019
+CircularBufferTest.PushFront 2 0.00166012
+CircularBufferTest.PopBack 2 0.00176746
+CircularBufferTest.PopFront 2 0.00202538
+CircularBufferTest.AtValidIndex 2 0.00204883
+CircularBufferTest.AtInvalidIndex 2 0.00205042
+CircularBufferTest.SetCapacity 2 0.00185055
+CircularBufferTest.AssignmentOperator 2 0.00191513
+CircularBufferTest.EqualityOperator 2 0.00130226
+---

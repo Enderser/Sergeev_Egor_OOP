@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.o -o CircularBuffer_test  lib/libgtest_maind.a libCircularBuffer.a lib/libgtestd.a 
