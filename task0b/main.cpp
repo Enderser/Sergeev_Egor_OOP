@@ -35,7 +35,7 @@ int main(int argc, char* argv[]) {
 		}
 	}
 
-    vector<pair<string, float>> vec(data.begin(), data.end());
+    vector<pair<string, double>> vec(data.begin(), data.end());
     sort(vec.begin(), vec.end(), [](pair<string, float> a, pair<string, float> b) {
 		return a.second > b.second;
 		});
