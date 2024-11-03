@@ -1,7 +1,8 @@
 CMakeFiles/CircularBuffer.dir/circular_buffer.cpp.o: \
- /home/ender/OOP/task1b/circular_buffer.cpp /usr/include/stdc-predef.h \
- /home/ender/OOP/task1b/circular_buffer.h /usr/include/c++/11/stdexcept \
- /usr/include/c++/11/exception \
+ /home/ender/OOP/Sergeev_Egor_OOP/task1b/circular_buffer.cpp \
+ /usr/include/stdc-predef.h \
+ /home/ender/OOP/Sergeev_Egor_OOP/task1b/circular_buffer.h \
+ /usr/include/c++/11/stdexcept /usr/include/c++/11/exception \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \

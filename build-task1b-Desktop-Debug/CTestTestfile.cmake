@@ -1,5 +1,5 @@
 # CMake generated Testfile for 
-# Source directory: /home/ender/OOP/task1b
+# Source directory: /home/ender/OOP/Sergeev_Egor_OOP/task1b
 # Build directory: /home/ender/OOP/build-task1b-Desktop-Debug
 # 
 # This file includes the relevant testing commands required for 

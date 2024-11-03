@@ -53,7 +53,7 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ender/OOP/task1b
+CMAKE_SOURCE_DIR = /home/ender/OOP/Sergeev_Egor_OOP/task1b
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/ender/OOP/build-task1b-Desktop-Debug
@@ -70,18 +70,18 @@ include CMakeFiles/CircularBuffer_test.dir/progress.make
 include CMakeFiles/CircularBuffer_test.dir/flags.make
 
 CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.o: CMakeFiles/CircularBuffer_test.dir/flags.make
-CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.o: /home/ender/OOP/task1b/circular_buffer_test.cpp
+CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.o: /home/ender/OOP/Sergeev_Egor_OOP/task1b/circular_buffer_test.cpp
 CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.o: CMakeFiles/CircularBuffer_test.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ender/OOP/build-task1b-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.o -MF CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.o.d -o CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.o -c /home/ender/OOP/task1b/circular_buffer_test.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.o -MF CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.o.d -o CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.o -c /home/ender/OOP/Sergeev_Egor_OOP/task1b/circular_buffer_test.cpp
 
 CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ender/OOP/task1b/circular_buffer_test.cpp > CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ender/OOP/Sergeev_Egor_OOP/task1b/circular_buffer_test.cpp > CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.i
 
 CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ender/OOP/task1b/circular_buffer_test.cpp -o CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ender/OOP/Sergeev_Egor_OOP/task1b/circular_buffer_test.cpp -o CMakeFiles/CircularBuffer_test.dir/circular_buffer_test.cpp.s
 
 # Object files for target CircularBuffer_test
 CircularBuffer_test_OBJECTS = \
@@ -109,6 +109,6 @@ CMakeFiles/CircularBuffer_test.dir/clean:
 .PHONY : CMakeFiles/CircularBuffer_test.dir/clean
 
 CMakeFiles/CircularBuffer_test.dir/depend:
-	cd /home/ender/OOP/build-task1b-Desktop-Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ender/OOP/task1b /home/ender/OOP/task1b /home/ender/OOP/build-task1b-Desktop-Debug /home/ender/OOP/build-task1b-Desktop-Debug /home/ender/OOP/build-task1b-Desktop-Debug/CMakeFiles/CircularBuffer_test.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/ender/OOP/build-task1b-Desktop-Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ender/OOP/Sergeev_Egor_OOP/task1b /home/ender/OOP/Sergeev_Egor_OOP/task1b /home/ender/OOP/build-task1b-Desktop-Debug /home/ender/OOP/build-task1b-Desktop-Debug /home/ender/OOP/build-task1b-Desktop-Debug/CMakeFiles/CircularBuffer_test.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/CircularBuffer_test.dir/depend
 

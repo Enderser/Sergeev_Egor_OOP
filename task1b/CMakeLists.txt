@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(CircularBufferProject)
+project(task1b)
 
 # Устанавливаем стандарт C++
 set(CMAKE_CXX_STANDARD 17)

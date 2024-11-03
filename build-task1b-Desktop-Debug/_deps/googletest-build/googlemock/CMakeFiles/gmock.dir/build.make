@@ -53,7 +53,7 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ender/OOP/task1b
+CMAKE_SOURCE_DIR = /home/ender/OOP/Sergeev_Egor_OOP/task1b
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/ender/OOP/build-task1b-Desktop-Debug
@@ -106,6 +106,6 @@ _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/clean:
 .PHONY : _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/clean
 
 _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/depend:
-	cd /home/ender/OOP/build-task1b-Desktop-Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ender/OOP/task1b /home/ender/OOP/build-task1b-Desktop-Debug/_deps/googletest-src/googlemock /home/ender/OOP/build-task1b-Desktop-Debug /home/ender/OOP/build-task1b-Desktop-Debug/_deps/googletest-build/googlemock /home/ender/OOP/build-task1b-Desktop-Debug/_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/ender/OOP/build-task1b-Desktop-Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ender/OOP/Sergeev_Egor_OOP/task1b /home/ender/OOP/build-task1b-Desktop-Debug/_deps/googletest-src/googlemock /home/ender/OOP/build-task1b-Desktop-Debug /home/ender/OOP/build-task1b-Desktop-Debug/_deps/googletest-build/googlemock /home/ender/OOP/build-task1b-Desktop-Debug/_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/depend
 

@@ -287,7 +287,7 @@ CircularBufferProject_BINARY_DIR:STATIC=/home/ender/OOP/build-task1b-Desktop-Deb
 CircularBufferProject_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-CircularBufferProject_SOURCE_DIR:STATIC=/home/ender/OOP/task1b
+CircularBufferProject_SOURCE_DIR:STATIC=/home/ender/OOP/Sergeev_Egor_OOP/task1b
 
 //Directory under which to collect all populated content
 FETCHCONTENT_BASE_DIR:PATH=/home/ender/OOP/build-task1b-Desktop-Debug/_deps
@@ -373,15 +373,6 @@ gtest_hide_internal_symbols:BOOL=OFF
 
 //Dependencies for the target
 gtest_main_LIB_DEPENDS:STATIC=general;gtest;
-
-//Value Computed by CMake
-task1b_BINARY_DIR:STATIC=/home/ender/OOP/build-task1b-Desktop-Debug
-
-//Value Computed by CMake
-task1b_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-task1b_SOURCE_DIR:STATIC=/home/ender/OOP/task1b
 
 
 ########################
@@ -474,7 +465,7 @@ CMAKE_HAVE_LIBC_PTHREAD:INTERNAL=1
 CMAKE_HAVE_PTHREAD_H:INTERNAL=1
 //Source directory with the top level CMakeLists.txt file for this
 // project
-CMAKE_HOME_DIRECTORY:INTERNAL=/home/ender/OOP/task1b
+CMAKE_HOME_DIRECTORY:INTERNAL=/home/ender/OOP/Sergeev_Egor_OOP/task1b
 //ADVANCED property for variable: CMAKE_INSTALL_BINDIR
 CMAKE_INSTALL_BINDIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_INSTALL_DATADIR

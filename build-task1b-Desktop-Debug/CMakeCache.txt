@@ -201,7 +201,7 @@ CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 CMAKE_PROJECT_INCLUDE_BEFORE:PATH=/usr/share/qtcreator/package-manager/auto-setup.cmake
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=CircularBufferProject
+CMAKE_PROJECT_NAME:STATIC=task1b
 
 //Value Computed by CMake
 CMAKE_PROJECT_VERSION:STATIC=1.11.0
@@ -287,7 +287,7 @@ CircularBufferProject_BINARY_DIR:STATIC=/home/ender/OOP/build-task1b-Desktop-Deb
 CircularBufferProject_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-CircularBufferProject_SOURCE_DIR:STATIC=/home/ender/OOP/task1b
+CircularBufferProject_SOURCE_DIR:STATIC=/home/ender/OOP/Sergeev_Egor_OOP/task1b
 
 //Directory under which to collect all populated content
 FETCHCONTENT_BASE_DIR:PATH=/home/ender/OOP/build-task1b-Desktop-Debug/_deps
@@ -381,7 +381,7 @@ task1b_BINARY_DIR:STATIC=/home/ender/OOP/build-task1b-Desktop-Debug
 task1b_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-task1b_SOURCE_DIR:STATIC=/home/ender/OOP/task1b
+task1b_SOURCE_DIR:STATIC=/home/ender/OOP/Sergeev_Egor_OOP/task1b
 
 
 ########################
@@ -474,7 +474,7 @@ CMAKE_HAVE_LIBC_PTHREAD:INTERNAL=1
 CMAKE_HAVE_PTHREAD_H:INTERNAL=1
 //Source directory with the top level CMakeLists.txt file for this
 // project
-CMAKE_HOME_DIRECTORY:INTERNAL=/home/ender/OOP/task1b
+CMAKE_HOME_DIRECTORY:INTERNAL=/home/ender/OOP/Sergeev_Egor_OOP/task1b
 //ADVANCED property for variable: CMAKE_INSTALL_BINDIR
 CMAKE_INSTALL_BINDIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_INSTALL_DATADIR
