@@ -1,3 +1,0 @@
-/home/ender/OOP/Sergeev_Egor_OOP/build-task2_Life-Desktop-Debug/CMakeFiles/GameOfLife.dir
-/home/ender/OOP/Sergeev_Egor_OOP/build-task2_Life-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/ender/OOP/Sergeev_Egor_OOP/build-task2_Life-Desktop-Debug/CMakeFiles/rebuild_cache.dir
