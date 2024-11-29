@@ -1,0 +1,5 @@
+if(EXISTS "/home/ender/OOP/Sergeev_Egor_OOP/build-HW5-Desktop-Debug/Time_test[1]_tests.cmake")
+  include("/home/ender/OOP/Sergeev_Egor_OOP/build-HW5-Desktop-Debug/Time_test[1]_tests.cmake")
+else()
+  add_test(Time_test_NOT_BUILT Time_test_NOT_BUILT)
+endif()

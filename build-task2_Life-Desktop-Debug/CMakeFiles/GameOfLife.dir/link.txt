@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/GameOfLife.dir/main.cpp.o CMakeFiles/GameOfLife.dir/Rule.cpp.o CMakeFiles/GameOfLife.dir/Universe.cpp.o CMakeFiles/GameOfLife.dir/Game.cpp.o -o GameOfLife 

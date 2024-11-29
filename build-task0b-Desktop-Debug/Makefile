@@ -57,7 +57,7 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ender/OOP/task0b
+CMAKE_SOURCE_DIR = /home/ender/OOP/Sergeev_Egor_OOP/task0b
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/ender/OOP/build-task0b-Desktop-Debug

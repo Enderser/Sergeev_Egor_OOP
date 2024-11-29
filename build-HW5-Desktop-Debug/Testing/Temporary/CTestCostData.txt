@@ -1,0 +1,8 @@
+TimeConstructors.DefaultConstructor 2 0.00221563
+TimeConstructors.ParameterizedConstructor 2 0.0019991
+TimeOperators.AdditionOperator 1 0.00442709
+TimeOperators.EqualityOperator 2 0.00209697
+TimeMethods.Normalize 2 0.00216349
+TimeMethods.FailingTest 0 0
+---
+TimeMethods.FailingTest

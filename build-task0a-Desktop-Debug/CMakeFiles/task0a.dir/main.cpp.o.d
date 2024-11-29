@@ -1,5 +1,7 @@
-CMakeFiles/task0a.dir/main.cpp.o: /home/ender/OOP/task0a/main.cpp \
- /usr/include/stdc-predef.h /home/ender/OOP/task0a/module1.h \
+CMakeFiles/task0a.dir/main.cpp.o: \
+ /home/ender/OOP/Sergeev_Egor_OOP/task0a/main.cpp \
+ /usr/include/stdc-predef.h \
+ /home/ender/OOP/Sergeev_Egor_OOP/task0a/module1.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -126,9 +128,10 @@ CMakeFiles/task0a.dir/main.cpp.o: /home/ender/OOP/task0a/main.cpp \
  /usr/include/c++/11/bits/functional_hash.h \
  /usr/include/c++/11/bits/hash_bytes.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/ender/OOP/task0a/module2.h /usr/include/c++/11/iostream \
- /usr/include/c++/11/ostream /usr/include/c++/11/ios \
- /usr/include/c++/11/exception /usr/include/c++/11/bits/exception_ptr.h \
+ /home/ender/OOP/Sergeev_Egor_OOP/task0a/module2.h \
+ /usr/include/c++/11/iostream /usr/include/c++/11/ostream \
+ /usr/include/c++/11/ios /usr/include/c++/11/exception \
+ /usr/include/c++/11/bits/exception_ptr.h \
  /usr/include/c++/11/bits/cxxabi_init_exception.h \
  /usr/include/c++/11/typeinfo /usr/include/c++/11/bits/nested_exception.h \
  /usr/include/c++/11/bits/ios_base.h \

@@ -53,7 +53,7 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ender/OOP/task0a
+CMAKE_SOURCE_DIR = /home/ender/OOP/Sergeev_Egor_OOP/task0a
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/ender/OOP/build-task0a-Desktop-Debug
@@ -70,46 +70,46 @@ include CMakeFiles/task0a.dir/progress.make
 include CMakeFiles/task0a.dir/flags.make
 
 CMakeFiles/task0a.dir/main.cpp.o: CMakeFiles/task0a.dir/flags.make
-CMakeFiles/task0a.dir/main.cpp.o: /home/ender/OOP/task0a/main.cpp
+CMakeFiles/task0a.dir/main.cpp.o: /home/ender/OOP/Sergeev_Egor_OOP/task0a/main.cpp
 CMakeFiles/task0a.dir/main.cpp.o: CMakeFiles/task0a.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ender/OOP/build-task0a-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/task0a.dir/main.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/task0a.dir/main.cpp.o -MF CMakeFiles/task0a.dir/main.cpp.o.d -o CMakeFiles/task0a.dir/main.cpp.o -c /home/ender/OOP/task0a/main.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/task0a.dir/main.cpp.o -MF CMakeFiles/task0a.dir/main.cpp.o.d -o CMakeFiles/task0a.dir/main.cpp.o -c /home/ender/OOP/Sergeev_Egor_OOP/task0a/main.cpp
 
 CMakeFiles/task0a.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task0a.dir/main.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ender/OOP/task0a/main.cpp > CMakeFiles/task0a.dir/main.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ender/OOP/Sergeev_Egor_OOP/task0a/main.cpp > CMakeFiles/task0a.dir/main.cpp.i
 
 CMakeFiles/task0a.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task0a.dir/main.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ender/OOP/task0a/main.cpp -o CMakeFiles/task0a.dir/main.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ender/OOP/Sergeev_Egor_OOP/task0a/main.cpp -o CMakeFiles/task0a.dir/main.cpp.s
 
 CMakeFiles/task0a.dir/module1.cpp.o: CMakeFiles/task0a.dir/flags.make
-CMakeFiles/task0a.dir/module1.cpp.o: /home/ender/OOP/task0a/module1.cpp
+CMakeFiles/task0a.dir/module1.cpp.o: /home/ender/OOP/Sergeev_Egor_OOP/task0a/module1.cpp
 CMakeFiles/task0a.dir/module1.cpp.o: CMakeFiles/task0a.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ender/OOP/build-task0a-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/task0a.dir/module1.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/task0a.dir/module1.cpp.o -MF CMakeFiles/task0a.dir/module1.cpp.o.d -o CMakeFiles/task0a.dir/module1.cpp.o -c /home/ender/OOP/task0a/module1.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/task0a.dir/module1.cpp.o -MF CMakeFiles/task0a.dir/module1.cpp.o.d -o CMakeFiles/task0a.dir/module1.cpp.o -c /home/ender/OOP/Sergeev_Egor_OOP/task0a/module1.cpp
 
 CMakeFiles/task0a.dir/module1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task0a.dir/module1.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ender/OOP/task0a/module1.cpp > CMakeFiles/task0a.dir/module1.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ender/OOP/Sergeev_Egor_OOP/task0a/module1.cpp > CMakeFiles/task0a.dir/module1.cpp.i
 
 CMakeFiles/task0a.dir/module1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task0a.dir/module1.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ender/OOP/task0a/module1.cpp -o CMakeFiles/task0a.dir/module1.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ender/OOP/Sergeev_Egor_OOP/task0a/module1.cpp -o CMakeFiles/task0a.dir/module1.cpp.s
 
 CMakeFiles/task0a.dir/module2.cpp.o: CMakeFiles/task0a.dir/flags.make
-CMakeFiles/task0a.dir/module2.cpp.o: /home/ender/OOP/task0a/module2.cpp
+CMakeFiles/task0a.dir/module2.cpp.o: /home/ender/OOP/Sergeev_Egor_OOP/task0a/module2.cpp
 CMakeFiles/task0a.dir/module2.cpp.o: CMakeFiles/task0a.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ender/OOP/build-task0a-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/task0a.dir/module2.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/task0a.dir/module2.cpp.o -MF CMakeFiles/task0a.dir/module2.cpp.o.d -o CMakeFiles/task0a.dir/module2.cpp.o -c /home/ender/OOP/task0a/module2.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/task0a.dir/module2.cpp.o -MF CMakeFiles/task0a.dir/module2.cpp.o.d -o CMakeFiles/task0a.dir/module2.cpp.o -c /home/ender/OOP/Sergeev_Egor_OOP/task0a/module2.cpp
 
 CMakeFiles/task0a.dir/module2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task0a.dir/module2.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ender/OOP/task0a/module2.cpp > CMakeFiles/task0a.dir/module2.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ender/OOP/Sergeev_Egor_OOP/task0a/module2.cpp > CMakeFiles/task0a.dir/module2.cpp.i
 
 CMakeFiles/task0a.dir/module2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task0a.dir/module2.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ender/OOP/task0a/module2.cpp -o CMakeFiles/task0a.dir/module2.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ender/OOP/Sergeev_Egor_OOP/task0a/module2.cpp -o CMakeFiles/task0a.dir/module2.cpp.s
 
 # Object files for target task0a
 task0a_OBJECTS = \
@@ -137,6 +137,6 @@ CMakeFiles/task0a.dir/clean:
 .PHONY : CMakeFiles/task0a.dir/clean
 
 CMakeFiles/task0a.dir/depend:
-	cd /home/ender/OOP/build-task0a-Desktop-Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ender/OOP/task0a /home/ender/OOP/task0a /home/ender/OOP/build-task0a-Desktop-Debug /home/ender/OOP/build-task0a-Desktop-Debug /home/ender/OOP/build-task0a-Desktop-Debug/CMakeFiles/task0a.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/ender/OOP/build-task0a-Desktop-Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ender/OOP/Sergeev_Egor_OOP/task0a /home/ender/OOP/Sergeev_Egor_OOP/task0a /home/ender/OOP/build-task0a-Desktop-Debug /home/ender/OOP/build-task0a-Desktop-Debug /home/ender/OOP/build-task0a-Desktop-Debug/CMakeFiles/task0a.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/task0a.dir/depend
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/ender/OOP/task0a
+# Install script for directory: /home/ender/OOP/Sergeev_Egor_OOP/task0a
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

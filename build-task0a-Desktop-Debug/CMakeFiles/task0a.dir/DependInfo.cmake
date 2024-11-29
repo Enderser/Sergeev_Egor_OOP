@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/ender/OOP/task0a/main.cpp" "CMakeFiles/task0a.dir/main.cpp.o" "gcc" "CMakeFiles/task0a.dir/main.cpp.o.d"
-  "/home/ender/OOP/task0a/module1.cpp" "CMakeFiles/task0a.dir/module1.cpp.o" "gcc" "CMakeFiles/task0a.dir/module1.cpp.o.d"
-  "/home/ender/OOP/task0a/module2.cpp" "CMakeFiles/task0a.dir/module2.cpp.o" "gcc" "CMakeFiles/task0a.dir/module2.cpp.o.d"
+  "/home/ender/OOP/Sergeev_Egor_OOP/task0a/main.cpp" "CMakeFiles/task0a.dir/main.cpp.o" "gcc" "CMakeFiles/task0a.dir/main.cpp.o.d"
+  "/home/ender/OOP/Sergeev_Egor_OOP/task0a/module1.cpp" "CMakeFiles/task0a.dir/module1.cpp.o" "gcc" "CMakeFiles/task0a.dir/module1.cpp.o.d"
+  "/home/ender/OOP/Sergeev_Egor_OOP/task0a/module2.cpp" "CMakeFiles/task0a.dir/module2.cpp.o" "gcc" "CMakeFiles/task0a.dir/module2.cpp.o.d"
   )
 
 # Targets to which this target links.

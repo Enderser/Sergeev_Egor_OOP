@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Time_test.dir/Time_test.cpp.o -o Time_test  libTime.a lib/libgtest_maind.a lib/libgtestd.a 

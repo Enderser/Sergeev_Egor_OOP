@@ -1,5 +1,7 @@
-CMakeFiles/task0a.dir/module1.cpp.o: /home/ender/OOP/task0a/module1.cpp \
- /usr/include/stdc-predef.h /home/ender/OOP/task0a/module1.h \
+CMakeFiles/task0a.dir/module1.cpp.o: \
+ /home/ender/OOP/Sergeev_Egor_OOP/task0a/module1.cpp \
+ /usr/include/stdc-predef.h \
+ /home/ender/OOP/Sergeev_Egor_OOP/task0a/module1.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
