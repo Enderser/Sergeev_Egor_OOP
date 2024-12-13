@@ -9,6 +9,10 @@ public:
         cout << "OceanCreature created" << endl;
     }
 
+    ~OceanCreature() {
+        cout << "OceanCreature destroyed" << endl;
+    }
+
     void Swim() const {
         cout << "OceanCreature is swimming" << endl;
     }

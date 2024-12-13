@@ -4,32 +4,35 @@
 #include <iostream>
 using namespace std;
 
-class Watch;       // Предварительное объявление класса Watch
-class SimpleWatch; // Предварительное объявление класса SimpleWatch
+class SimpleWatch; // Предварительное объявление класса
+class Watch;       // Предварительное объявление класса
 
 class Time {
     int hours, minutes, seconds;
 
-    void Normalize(); // Приведение времени в корректный диапазон
+    void Normalize();
 
 public:
-    Time(); // Конструктор по умолчанию
-    Time(int h, int m, int s); // Конструктор с параметрами
-    Time(const Time& t); // Конструктор копирования
+    Time();
+    Time(int h, int m, int s);
+    Time(const Time& t);
 
-    Time& operator=(const Time& other); // Оператор присваивания
-    Time& operator+=(int s); // Добавление секунд
-    Time operator+(int s) const; // Добавление секунд, возвращает новое время
-    Time& operator-=(int s); // Вычитание секунд
-    Time operator-(int s) const; // Вычитание секунд, возвращает новое время
-    bool operator==(const Time& other) const; // Оператор сравнения
+    Time& operator=(const Time& other);
+    Time& operator+=(int s);
+    Time operator+(int s) const;
+    Time& operator-=(int s);
+    Time operator-(int s) const;
+    bool operator==(const Time& other) const;
 
-    int ToSeconds() const; // Перевод времени в секунды от полуночи
-    void PrintTime() const; // Вывод времени
+    int ToSeconds() const;
+    void PrintTime() const;
 
-    // Дружественные классы
-    friend class Watch;
+    // Дружественный класс
     friend class SimpleWatch;
+
+    // Дружественные функции
+    friend void ShowTime(const Time& t);
+    friend void SetTime(Time& t, int h, int m, int s);
 };
 
 #endif // TIME_H

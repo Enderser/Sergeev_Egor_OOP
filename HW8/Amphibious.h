@@ -9,6 +9,10 @@ public:
         cout << "Amphibious created" << endl;
     }
 
+    ~Amphibious() {
+        cout << "Amphibious destroyed" << endl;
+    }
+
     void Walk() const {
         cout << "Amphibious is walking" << endl;
     }

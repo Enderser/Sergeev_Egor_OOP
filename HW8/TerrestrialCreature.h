@@ -1,16 +1,20 @@
 #ifndef TERRESTRIAL_CREATURE_H
 #define TERRESTRIAL_CREATURE_H
 
-#include "GenericCreature.h"
+#include "Amphibious.h"
 
-class TerrestrialCreature : public GenericCreature {
+class TerrestrialCreature : public Amphibious {
 public:
     TerrestrialCreature() {
         cout << "TerrestrialCreature created" << endl;
     }
 
-    void Walk() const {
-        cout << "TerrestrialCreature is walking" << endl;
+    ~TerrestrialCreature() {
+        cout << "TerrestrialCreature destroyed" << endl;
+    }
+
+    void Run() const {
+        cout << "TerrestrialCreature is running" << endl;
     }
 };
 

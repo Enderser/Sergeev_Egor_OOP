@@ -9,6 +9,10 @@ public:
         cout << "Bird created" << endl;
     }
 
+    ~Bird() {
+        cout << "Bird destroyed" << endl;
+    }
+
     void Fly() const {
         cout << "Bird is flying" << endl;
     }

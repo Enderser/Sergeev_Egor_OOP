@@ -10,7 +10,11 @@ public:
         cout << "GenericCreature created" << endl;
     }
 
-    void Breathe() const {
+    virtual ~GenericCreature() {
+        cout << "GenericCreature destroyed" << endl;
+    }
+
+    virtual void Breathe() const {
         cout << "GenericCreature is breathing" << endl;
     }
 };
